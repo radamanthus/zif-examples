@@ -1,0 +1,4 @@
+[/] hello-zif - A minimal game that uses scenes
+[ ] buttons - Demonstrate how to use buttons to create a game main menu
+[ ] sprites - Demonstrate how to use Zif::Sprite
+[ ] tiledmap - Demonstrate how to use Zif::TiledMap
